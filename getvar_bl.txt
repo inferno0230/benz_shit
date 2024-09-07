@@ -1,6 +1,6 @@
 
 (bootloader) battery-soc-ok:yes
-(bootloader) battery-voltage:8846
+(bootloader) battery-voltage:8866
 (bootloader) charger-screen-enabled:0
 (bootloader) current-slot:a
 (bootloader) erase-block-size: 0x1000
@@ -295,7 +295,7 @@
 (bootloader) slot-unbootable:a:no
 (bootloader) slot-unbootable:b:yes
 (bootloader) snapshot-update-status:none
-(bootloader) unlocked:no
+(bootloader) unlocked:yes
 (bootloader) variant:SM_ UFS
 (bootloader) version-baseband:
 (bootloader) version-bootloader:
